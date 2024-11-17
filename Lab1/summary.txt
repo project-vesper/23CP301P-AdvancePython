@@ -1,0 +1,8 @@
+----Summary----
+Total Reviews Processed: 13
+Valid Reviews Processed: 12
+Invalid Reviews Processed: 1
+----Top Products----
+Product ID : 1234567891, Average Rating : 4.0
+Product ID : 1234567892, Average Rating : 3.25
+Product ID : 1234567890, Average Rating : 2.0
