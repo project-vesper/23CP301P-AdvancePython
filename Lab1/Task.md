@@ -1,4 +1,4 @@
-**[LAB Assignment 1: Product Review from text file]{.underline}**
+# LAB Assignment 1: Product Review from Text File
 
 Consider a scenario where you are working as a data scientist for a
 large e-commerce company. Your team is responsible for analyzing
