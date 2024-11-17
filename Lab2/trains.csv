@@ -1,0 +1,11 @@
+TrainID,Train Name,Source Station,Destination Station,Total Seats
+T0456,Shatabdi Express,Delhi,Amritsar,12
+T0678,Rajdhani Express,Kolkata,Delhi,15
+T0789,Duronto Express,Bangalore,Delhi,20
+T0890,Gatiman Express,Delhi,Agra,8
+T0912,Jan Shatabdi Express,Mumbai,Pune,10
+T1034,Tejas Express,Chennai,Bangalore,14
+T1156,Sampark Kranti,Hyderabad,Delhi,18
+T1278,Humsafar Express,Ahmedabad,Varanasi,16
+T1390,Antyodaya Express,Mumbai,Nagpur,11
+T1456,Sampoorna Kranti,Patna,Delhi,17
